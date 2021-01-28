@@ -14,7 +14,7 @@ Below listing shows main goals which project aimed to be:
 - Study techniques of programming an external embedded system
 - Study analog signal processing in **C** Programming Language
 - Gather ideas for future projects
-- **What should you I next with this knowledge?**
+- **What should I do next with gained experience?**
 
 ## **Final Device Requirements**
 Device should:
