@@ -26,8 +26,8 @@ Device should:
 - [x] Light a LED bulb on data update
 - [x] Have RESET button
 
-# **Implementation Process**
-## **Final Device Hardware**
+## **Implementation Process**
+### **Final Device Hardware**
 - stm32f103c8t6 board (BluePill)
 - Nokia LCD screen, 5110 84x48px
 - DHT11 temperature&humidity sensor
