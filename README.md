@@ -80,8 +80,8 @@ Device should:
 
 # **Final Device Photos**
 
-![Alt text](/readme-images/1.png?raw=true "Photo 1")
-![Alt text](/readme-images/2.png?raw=true "Photo 2")
+![Alt text](/readme-images/1.jpg?raw=true "Photo 1")
+![Alt text](/readme-images/2.jpg?raw=true "Photo 2")
 
 ### **Bluepill pinout used**
-![Alt text](/readme-images/cube-config.png?raw=true "Bluepill pinout used")
+![Alt text](/readme-images/bluepill-pinout.png?raw=true "Bluepill pinout used")
