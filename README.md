@@ -1,5 +1,5 @@
 # **My Weather Station V1**
-A project in which I wanted to create working device from scrap - weather station.
+A project in which I wanted to create working device from scrap - very basic weather station.
 
 ## **Introduction**
 Why project like this?
