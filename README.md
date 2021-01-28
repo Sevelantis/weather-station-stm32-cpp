@@ -18,7 +18,7 @@ Below listing shows main goals which project aimed to be:
 
 ## **Final Device Requirements**
 Device should:
-- [X] Have total budget no more than 10$
+- [x] Have total budget no more than 10$
 - [x] Consume input voltage: 3.3V/5V
 - [x] Update current ambient temperature (Celsius scale)
 - [x] Update current air humidity (Percent scale)
@@ -34,3 +34,5 @@ Device should:
 - LED Red bulb
 - 3.3kΩ pull-up resistor (for sensor)
 - some random 1mm cables
+
+![Alt text](/readme-images/cube-config.png?raw=true "CUBEMX configuration pinout")
