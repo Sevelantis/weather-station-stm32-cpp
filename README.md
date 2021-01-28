@@ -85,3 +85,5 @@ Device should:
 
 ### **Bluepill pinout used**
 ![Alt text](/readme-images/bluepill-pinout.png?raw=true "Bluepill pinout used")
+
+@szyminson
