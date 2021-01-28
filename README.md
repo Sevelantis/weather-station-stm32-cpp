@@ -53,7 +53,7 @@ Device should:
 5. Ask STM32-experienced students for directions when choosing.
 6. Choose proper devices compatible with Bluepill, buy them.
 7. Study their manuals to get into the technical part.
-8. Configure CUBEMX pinouts for:
+8. Configure CUBEMX pinouts, then generate code for pinout - STM32 HAL library:
     - Screen - SPI interface
     - Sensor - Gives analog signal which can be captured via one pin.
     - LED    - Pin output
@@ -61,7 +61,6 @@ Device should:
 
 ![Alt text](/readme-images/cube-config.png?raw=true "CUBEMX configuration pinout")
 
-    8.1 Generate code for pinout - STM32 HAL library
 9. Write LCD class, display some text with predefined font.
 10. Display not just text, but a photo
    - Since Nokia5110 LCD screeen is black|white (blue|black) I had to **convert** needed images to proper screen 84x48px
