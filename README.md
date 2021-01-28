@@ -44,19 +44,19 @@ Device should:
 6. Choose proper devices compatible with Bluepill, buy them.
 7. Study their manuals to get into the technical part.
 8. Configure CUBEMX pinouts for:
-  - Screen - SPI interface
-  - Sensor - Gives analog signal which can be captured via one pin.
-  - LED    - Pin output
-  - STM32 clocking stuff
+    - Screen - SPI interface
+    - Sensor - Gives analog signal which can be captured via one pin.
+    - LED    - Pin output
+    - STM32 clocking stuff
 9. Write LCD class, display some text with predefined font.
 10. Display not just text, but a photo
-  - Since Nokia5110 LCD screeen is black|white (blue|black) I had to **convert** needed images to proper screen 84x48px
-  - And set alpha threshold so it just displays pixels in form of 0/1 dots.
+   - Since Nokia5110 LCD screeen is black|white (blue|black) I had to **convert** needed images to proper screen 84x48px
+   - And set alpha threshold so it just displays pixels in form of 0/1 dots.
 11. Learn about sensor data capturing.
 12. Write DHT11 class - sensor class, handle digitization of one pin analog signal.
 13. Capture 40 bits of data:
-  - [0-7] -  integer part of humidity
-  - [8-15]
+    - [0-7] -  integer part of humidity
+   - [8-15]
 
 ### **1. STM32 pinout configuration**
 ![Alt text](/readme-images/cube-config.png?raw=true "CUBEMX configuration pinout")
