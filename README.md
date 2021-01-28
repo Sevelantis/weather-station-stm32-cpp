@@ -61,6 +61,7 @@ Device should:
 
 ![Alt text](/readme-images/cube-config.png?raw=true "CUBEMX configuration pinout")
 
+    8.1 Generate code for pinout - STM32 HAL library
 9. Write LCD class, display some text with predefined font.
 10. Display not just text, but a photo
    - Since Nokia5110 LCD screeen is black|white (blue|black) I had to **convert** needed images to proper screen 84x48px
