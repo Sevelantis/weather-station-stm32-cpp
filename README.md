@@ -59,7 +59,7 @@ Device should:
     - LED    - Pin output
     - STM32 clocking stuff
 
-![Alt text](/readme-images/cube-config.png?raw=true "CUBEMX configuration pinout")
+![Alt text](/readme-images/cube-config.png?raw=true "CUBEMX configuration pinout" | width=100)
 
 9. Write LCD class, display some text with predefined font.
 10. Display not just text, but a photo
