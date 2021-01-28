@@ -18,13 +18,13 @@ Below listing shows main goals which project aimed to achieve:
 
 ### **Final Device Requirements**
 Device should:
--[x] Have total budget no more than 10$
-- Consume input voltage: 3.3V/5V
-- Update current ambient temperature (Celsius scale)
-- Update current air humidity (Percent scale)
-- Print necessary data on the screen
-- Light a LED bulb on data update
-- Have RESET button
+- [x] Have total budget no more than 10$
+- [x] Consume input voltage: 3.3V/5V
+- [x] Update current ambient temperature (Celsius scale)
+- [x] Update current air humidity (Percent scale)
+- [x] Print necessary data on the screen
+- [x] Light a LED bulb on data update
+- [x] Have RESET button
 
 ### **Implementation Process**
 
