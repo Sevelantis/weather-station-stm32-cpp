@@ -7,8 +7,13 @@ Because recently (in the past few months) I joined Science Club [**SBT - Solar B
 at **Wrocław University of Science and Technology**, where due to influence of passion of more experienced, older students, I started to study STM32 architecture. Though, I have never been doing hardware stuff like this, the idea of designing a working device which can be useful - quickly found my interests. 
 
 ### **Project Guidelines**
-- 1
-- 2
-- 3
+Below listing shows main goals which project aimed to achieve.
+- Design a working device
+- Increase knowledge of STM32 architecture
+- Analog signal processing in **C** Programming Language
+- Gather ideas for future projects
+
+#### **Final Device Requirements**
+
 
 ### **Implementation Process**
