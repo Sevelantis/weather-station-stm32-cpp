@@ -1,5 +1,5 @@
-# **My Weather Station V1**
-A project in which I created working device.
+# **Weather Station V1**
+A project in which I created a working device.
 
 ## **Introduction**
 Why do a project like this? It's because recently (in the past few months), I joined the Science Club SBT - [**"SBT - Solar Boat Team"**](http://solarboat.pwr.edu.pl/) at Wrocław University of Science and Technology, where due to the influence of passionate, more experienced students,I started to study STM32 architecture. I have never done hardware stuff like this, the idea of designing a working device which can be useful quickly piqued my interests.
