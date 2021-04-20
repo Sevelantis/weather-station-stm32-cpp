@@ -2,12 +2,11 @@
 A project in which I created working device.
 
 ## **Introduction**
-Why project like this?
-Because recently (in the past few months) I joined Science Club [**SBT - Solar Boat Team**](http://solarboat.pwr.edu.pl/)
-at **Wrocław University of Science and Technology**, where due to influence of passion of more experienced, older students, I started to study STM32 architecture. Though, I have never been doing hardware stuff like this, the idea of designing a working device which can be useful - quickly found my interests. 
+Why do a project like this? It's because recently (in the past few months), I joined the Science Club SBT - [**"SBT - Solar Boat Team"**](http://solarboat.pwr.edu.pl/) at Wrocław University of Science and Technology, where due to the influence of passionate, more experienced students,I started to study STM32 architecture. I have never done hardware stuff like this, the idea of designing a working device which can be useful quickly piqued my interests.
+
 
 ## **Project Guidelines**
-Below listing shows main goals which project aimed to be:
+The listing below shows main goals which the project aims to be:
 - Have fun
 - Design a working device
 - Study STM32 architecture
