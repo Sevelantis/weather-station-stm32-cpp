@@ -17,7 +17,7 @@ The listing below shows main goals which the project aims to be:
 
 ## **Final Device Requirements**
 The Device should:
-- [x] Have a total budget no more than 10$
+- [x] The total cost is less than $10
 - [x] Consume input voltage: 3.3V/5V
 - [x] Update current ambient temperature (Celsius scale)
 - [x] Update current air humidity (Percent scale)
